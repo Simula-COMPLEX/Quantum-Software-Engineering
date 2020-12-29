@@ -1,6 +1,7 @@
 # Quantum Software Engineering Papers
 This repository contains replication packages for various published quantum software engineering papers. 
 
+---
 ## Paper 1: Assessing the Effectiveness of Input and Output Coverage Criteria for Testing Quantum Programs
 #### Authors: Shaukat Ali, Paolo, Arcaini, Xinyi Wang, Tao Yue
 #### Conference: ICST 2021: International Conference on Software Testing, Verification and Validation
@@ -13,3 +14,5 @@ Please note that the code used for experimentation is from the book Programming 
 // Programming Quantum Computers <br/>
 // by Eric Johnston, Nic Harrigan and Mercedes Gimeno-Segovia <br/>
 // O'Reilly Media <br/>
+
+---
