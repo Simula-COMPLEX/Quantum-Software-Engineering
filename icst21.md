@@ -1,5 +1,5 @@
 ---
-## Paper 1: Assessing the Effectiveness of Input and Output Coverage Criteria for Testing Quantum Programs
+## Assessing the Effectiveness of Input and Output Coverage Criteria for Testing Quantum Programs
 #### Authors: Shaukat Ali<sup>1</sup>, Paolo Arcaini<sup>2</sup>, Xinyi Wang<sup>3</sup>, Tao Yue<sup>1, 3</sup>
 <sub>1. Simula Research Laboratory, Norway;</sub>
 <sub>2. National Institute of Informatics, Japan;</sub>
